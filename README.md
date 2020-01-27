@@ -1,1 +1,1 @@
-# -Arduino-Sigfox-BRKWS01-Wisol-SFM10R1
+# Arduino-Sigfox-BRKWS01-Wisol-SFM10R1
