@@ -2,14 +2,15 @@
 
 ## Sigfox en quelques mots
 Sigfox est le nom de l'entreprise, mais également le nom de la technologie radio que l'entreprise a inventé.
-L'entreprise Sigfox opère leur propre réseau global basé sur ce protocol radio.
+L'entreprise Sigfox opère son propre réseau global basé sur ce protocol radio.
 
 Le réseau Sigfox est un réseau LPWAN:
-- basse consommation, 
-- bas débit, 
+
+- basse consommation,
+- bas débit,
 - longue portée
 
-C'est aussi une technologie peu couteuse (hardware, licence, simplicité de dévellopement)
+C'est aussi une technologie peu couteuse (hardware, licence, et dans la simplicité de dévellopement)
 
 ### Fonctionnement
 
