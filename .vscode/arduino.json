@@ -1,3 +1,5 @@
 {
-    "sketch": "app.ino"
+    "sketch": "app.ino",
+    "programmer": "AVR ISP",
+    "board": "arduino:sam:arduino_due_x_dbg"
 }
