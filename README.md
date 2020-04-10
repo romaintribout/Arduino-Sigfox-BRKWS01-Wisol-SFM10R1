@@ -17,10 +17,10 @@ C'est aussi une technologie peu couteuse (hardware, licence, et dans la simplici
 
 ### Communication bidirectionnelle
 
-Sigfox offre une communication bidirectionnelle:
+Sigfox offre une communication bidirectionnelle.
 
-- Uplink: de l'objet vers le cloud
-- Downlink: du cloud vers l'objet
+- Uplink - de l'objet vers le cloud
+- Downlink - du cloud vers l'objet
 
 Les communications (Uplink et Downlink) sont uniquement initiés par l'objet et non par le cloud. Si le cloud souhaite envoyé une donnée un objet, le cloud doit attendre que l'objet initialise la communication.
 
